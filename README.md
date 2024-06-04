@@ -1,4 +1,4 @@
-# ⚙️ moaw-workshop-full
+# ⚙️ moaw-workshop-basic
 
 This repository contains a simple starter template for creating a [MOAW](https://moaw.dev) workshop.
 
